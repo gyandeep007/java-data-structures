@@ -1,5 +1,5 @@
 
-package io.github.datastructures;
+package io.github.datastructuresandalgorithm;
 
 public class App {
 

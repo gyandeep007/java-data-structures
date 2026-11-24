@@ -1,5 +1,5 @@
 
-package io.github.datastructures;
+package io.github.datastructuresandalgorithm;
 
 import org.junit.jupiter.api.Test;
 
